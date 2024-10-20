@@ -1,0 +1,3 @@
+check and fix 0gchain nodes
+build farm of accounts for quests
+check all nodes
